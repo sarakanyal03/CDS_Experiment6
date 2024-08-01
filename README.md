@@ -27,7 +27,8 @@ do {
 ```
 <BR>
 CODE : <BR>
-1) <br>
+1) <br> 
+
 ```
 #include <iostream>
 using namespace std;
@@ -38,9 +39,8 @@ int main() {
         cout << "HELLO WORLD(" << i + 1 << ")" << "\n";
     }
     return 0;
-}```
-
-
+}
+```
 2) <br>
 ```
 #include<iostream>
