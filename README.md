@@ -28,19 +28,19 @@ do {
 <BR>
 CODE : <BR>
 6A : <BR>
-![6A](https://github.com/sarakanyal03/CDS_Experiment6/blob/main/6A.png) <br>
+![exp6A](https://github.com/sarakanyal03/CDS_Experiment6/blob/main/6A.png) <br>
 6B : <BR>
-![6B](https://github.com/sarakanyal03/CDS_Experiment6/blob/main/6B.png) <br>
+![exp6B](https://github.com/sarakanyal03/CDS_Experiment6/blob/main/6B.png) <br>
 6C : <BR>
-![6C](https://github.com/sarakanyal03/CDS_Experiment6/blob/main/6C.png) <br>
+![exp6C](https://github.com/sarakanyal03/CDS_Experiment6/blob/main/6C.png) <br>
 6D : <BR>
-![6D](https://github.com/sarakanyal03/CDS_Experiment6/blob/main/6D.png) <br>
+![exp6D](https://github.com/sarakanyal03/CDS_Experiment6/blob/main/6D.png) <br>
 6E : <BR>
-![6E](https://github.com/sarakanyal03/CDS_Experiment6/blob/main/6E.png) <br>
+![exp6E](https://github.com/sarakanyal03/CDS_Experiment6/blob/main/6E.png) <br>
 6F : <BR>
-![6F](https://github.com/sarakanyal03/CDS_Experiment6/blob/main/6F.png) <br>
+![exp6F](https://github.com/sarakanyal03/CDS_Experiment6/blob/main/6F.png) <br>
 6G : <BR>
-![6G](https://github.com/sarakanyal03/CDS_Experiment6/blob/main/6G.png) <br>
+![exp6G](https://github.com/sarakanyal03/CDS_Experiment6/blob/main/6G.png) <br>
 <BR>
 CONCLUSION: <BR>
 We gained knowledge about looping and their application and syntax in c++ to write codes.
